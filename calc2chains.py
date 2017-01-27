@@ -5,7 +5,7 @@
 import csv, re
 
 
-path = '/Users/Michael/Desktop/FD-v0118.csv'
+path = thisPath
 
 myDict={}
 
